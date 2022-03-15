@@ -3,7 +3,11 @@
 <!--
 **Meskaoui786/meskaoui786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                                                            A passionate web developer living in France 🇫🇷 🇪🇺
+
+    📖 I have learned React.js and Node.js at WildCodeSchool
+
+    � In my previous life, I had a technical Network ! let's talk about it... 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
